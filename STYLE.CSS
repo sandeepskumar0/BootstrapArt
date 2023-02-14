@@ -1,0 +1,93 @@
+.bdy{
+    background-color: rgb(255, 255, 255);
+}
+.map {
+  
+    width:900px;
+    height:500px;
+    padding:10px;
+    margin-bottom: 50%;
+    margin-right: 40%;
+    
+  }
+  /* .my_footer{
+    background-color:#f8f9fa;
+    height:60px;
+}
+.my_footer p{
+
+    padding-top:20px;
+    font-size:14px;
+} */
+
+
+.navbar{
+    height: 50%;
+    color: red;
+}
+.imag{
+    height: 400px;
+    width:1600px;
+
+    padding: 5px;
+}
+    
+.abt{
+    background-color: gray;
+}
+.header{
+    background-color: rgb(4, 4, 5);
+}
+.blue{
+    color: blue;
+    font-size: small;
+}
+.clr{
+    background-color: aquamarine;
+}
+.form{
+    background-color: aquamarine;
+}
+/* .card-img-top{
+    height: 300px;
+    width:180px;
+} */
+.card-img-top{
+    float: left;
+    width:  400px;
+    height: 300px;
+    object-fit: fill;
+    padding: 1px;
+}
+img {
+    float: left;
+    width:  400px;
+    height: 300px;
+    object-fit: fill;
+    padding: 1px;
+}
+
+.qa{
+    background-color: gray;
+}
+.btn1{
+    background-color: orange;
+}
+.ft{
+    text-align:center;
+    background-color: gray;
+}
+.btn{
+    background-color: yellow;
+    height: 40px;
+}
+.navbar-brand{
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+hr{
+    background-color: gray;
+}
+.b{
+    background-color: gray;
+}
